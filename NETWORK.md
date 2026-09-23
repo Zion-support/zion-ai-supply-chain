@@ -9,9 +9,9 @@ IT supply chain and procurement optimizer — vendor comparison, lead times, and
 
 - [AI Supply Chain Optimizer](https://github.com/Zion-support/ai-supply-chain-optimizer) — predictive logistics and inventory
 - [AI Supply Chain](https://github.com/Zion-support/ai-supply-chain) — logistics and demand forecasting
-- [Zion AI Procurement](https://github.com/Zion-support/zion-ai-procurement) — vendor evaluation and RFP drafting
 - [Zion AI Spare Parts Finder](https://github.com/Zion-support/zion-ai-spare-parts-finder) — part-number intelligence
-- [Zion AI RMA Tracker](https://github.com/Zion-support/zion-ai-rma-tracker) — RMA lifecycle management
+- [Zion AI Procurement](https://github.com/Zion-support/zion-ai-procurement) — vendor evaluation and RFP drafting
+- [Zion AI Quote Builder](https://github.com/Zion-support/zion-ai-quote-builder) — instant quotes and proposals
 
 ## Part of the Zion App Network
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
