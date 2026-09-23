@@ -1,10 +1,16 @@
-# Zion AI Supply Chain
+# 🌐 Part of the Zion App Network
 
-IT supply chain and procurement optimizer.
+**Zion AI Supply Chain** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-supply-chain](https://github.com/Zion-support/ai-supply-chain) · [ai-supply-chain-optimizer](https://github.com/Zion-support/ai-supply-chain-optimizer) · [zion-ai-procurement](https://github.com/Zion-support/zion-ai-procurement) · [zion-ai-vendor-risk](https://github.com/Zion-support/zion-ai-vendor-risk)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
+
+## Related apps
+- [AI Supply Chain Optimizer](https://github.com/Zion-support/ai-supply-chain)
+- [Warehouse Slotting AI](https://github.com/Zion-support/warehouse-slotting-ai)
+- [Zion AI Vendor Risk](https://github.com/Zion-support/zion-ai-vendor-risk)
 
 *Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
