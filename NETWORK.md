@@ -1,16 +1,17 @@
-# 🌐 Part of the Zion App Network
+# Zion AI Supply Chain — Zion App Network
 
-**Zion AI Supply Chain** is one of 533+ interconnected apps in the Zion Tech Group network.
+IT supply chain and procurement optimizer — vendor comparison, lead times, and inventory intelligence. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
-- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
-- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-supply-chain/](https://ziontechgroup.com/zion-ai-supply-chain/)
+- 🏠 Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
 
-## Related apps
-- [AI Supply Chain Optimizer](https://github.com/Zion-support/ai-supply-chain)
-- [Warehouse Slotting AI](https://github.com/Zion-support/warehouse-slotting-ai)
-- [Zion AI Vendor Risk](https://github.com/Zion-support/zion-ai-vendor-risk)
+## Related apps in the network
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+- [AI Supply Chain Optimizer](https://github.com/Zion-support/ai-supply-chain-optimizer) — predictive logistics and inventory
+- [AI Supply Chain](https://github.com/Zion-support/ai-supply-chain) — logistics and demand forecasting
+- [Zion AI Procurement](https://github.com/Zion-support/zion-ai-procurement) — vendor evaluation and RFP drafting
+- [Zion AI Spare Parts Finder](https://github.com/Zion-support/zion-ai-spare-parts-finder) — part-number intelligence
+- [Zion AI RMA Tracker](https://github.com/Zion-support/zion-ai-rma-tracker) — RMA lifecycle management
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
